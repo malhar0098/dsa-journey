@@ -4,6 +4,14 @@
 # Log file
 *.log
 
+# VS Code workspace settings
+.vscode/
+
+# Java build outputs
+bin/
+out/
+target/
+
 # BlueJ files
 *.ctxt
 
