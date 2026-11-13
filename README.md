@@ -11,7 +11,7 @@ My structured journey through Data Structures and Algorithms.
 - LeetCode
 
 ## Language and Tools
-- Java 21
+- Java 24
 - VS Code
 - Git and GitHub
 
